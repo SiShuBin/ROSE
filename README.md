@@ -1,6 +1,6 @@
 # ROSE
 
-**ROSE** aims to improve the **vertical localization performance** of LiDAR-based Odometry/SLAM in **generalizaed terrain conditions!** 
+**ROSE** aims to improve the **vertical localization performance** of LiDAR-based Odometry / SLAM in **generalizaed terrain conditions!** 
 
 ### Features:
 * Without the need of any additional sensors.
