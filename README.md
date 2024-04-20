@@ -1,5 +1,5 @@
 # ROSE: Covisibility Region Aware 3D-LiDAR SLAM Based on Generative Road Surface Model 
----
+
 **ROSE** aims to improve the **vertical localization performance** of LiDAR-based SLAM in **generalizaed terrain conditions!** 
 
 ### Features:
