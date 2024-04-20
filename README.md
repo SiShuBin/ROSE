@@ -6,6 +6,7 @@
 * Without the need of any additional sensors.
 * Without the assumption that the ground is absolute flat. 
 * Novel pipeline to handle the ground point clouds. 
+* Simple but effective. 
 
 The relevant paper has been submitted to IEEE T-AES and is under review now. 
 
